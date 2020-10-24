@@ -1,0 +1,17 @@
+userid,name,email,active,immediate_family
+AB_01,Andy,,TRUE,AB
+CD_01,Becca,fakename@gmail.com,TRUE,CD
+GH_01,Charlie,,TRUE,GH
+EF_01,Danielle,,TRUE,EF
+AB_02,Eric,,TRUE,AB
+CD_02,Flo,fakename2@gmail.com,TRUE,CD
+GH_02,Greg,,TRUE,GH
+EF_02,Hilda,fakename3@gmail.com,TRUE,EF
+GH_03,Ian,fakename4@comcast.net,TRUE,GH
+EF_03,Jess,fakename5@gmail.com,TRUE,EF
+GH_04,Kerry,,TRUE,GH
+EF_04,Lauren,,FALSE,EF
+AB_03,Michael,,FALSE,AB
+GH_05,Nicole,,FALSE,GH
+GH_06,Oliver,,FALSE,GH
+GH_07,Peggy,,FALSE,GH
